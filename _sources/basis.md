@@ -6,12 +6,12 @@
 
 ## Onderwerpen
 
-- Wat is AI en wat zijn de verschillende soorten AI? [1]
-- Overzicht van de huidige stand van AI-technologieën in het hoger onderwijs [2][3]
-- AI voor leermaterialen en lesplanning [1][2][4]
-- AI voor beoordeling en feedback [2][5] 
-- AI voor gepersonaliseerd leren en leerbegeleiding [2][3]
-- AI voor administratieve taken en studentondersteuning [2][5]
+- Wat is AI en wat zijn de verschillende soorten AI?
+- Overzicht van de huidige stand van AI-technologieën in het hoger onderwijs
+- AI voor leermaterialen en lesplanning
+- AI voor beoordeling en feedback 
+- AI voor gepersonaliseerd leren en leerbegeleiding
+- AI voor administratieve taken en studentondersteuning
 
 ### Wat is AI en wat zijn de verschillende soorten AI?
 
@@ -19,21 +19,26 @@
 :gutter: 1
 
 :::{grid-item-card}
+<a href="https://youtu.be/5q87K1WaoFI?si=M5czhN5JJeGjpPEq" target="_blank" ><img src="https://img.youtube.com/vi/5q87K1WaoFI/maxresdefault.jpg" class="rounded"></a>
+^^^
+In deze video {cite:p}`wired_computer_2021` legt een computer scientist machine learning uit op vijf verschillende niveaus van complexiteit aan mensen met diverse achtergronden. Ze begint met een kind en bouwt geleidelijk op naar meer geavanceerde gesprekken met studenten en professionals. De video behandelt basisconcepten zoals patroonherkenning en algoritmen, evenals complexere onderwerpen zoals supervised en unsupervised learning, deep learning, en de ethische implicaties van machine learning. De computer scientist illustreert hoe machine learning wordt toegepast in het dagelijks leven en in verschillende industrieën, en bespreekt zowel de voordelen als de uitdagingen van de technologie. De video eindigt met een reflectie op de toekomst van machine learning en de impact ervan op de samenleving.
++++
+:::{admonition} Reflectievragen
+- Leg in eigen woorden uit wat machine learning is. Noem een voorbeeld uit de video dat je hielp dit concept beter te begrijpen.
+- Welke toepassingen van machine learning in het dagelijks leven werden in de video besproken? Hoe denk je dat deze toepassingen jouw dagelijks leven beïnvloeden?
+- Welke nieuwe inzichten heb je opgedaan over machine learning na het kijken van de video? Hoe denk je dat deze kennis jou zou kunnen helpen in je werk?
+:::
+:::
+
+:::{grid-item-card}
 <a href="https://youtu.be/G2fqAlgmoPo?si=6v2lnVmxzLCE75MQ" target="_blank" ><img src="https://img.youtube.com/vi/G2fqAlgmoPo/maxresdefault.jpg" class="rounded"></a>
 ^^^
-Beschrijving volgt
+Deze video {cite:p}`google_cloud_tech_introduction_2023` behandelt de basisprincipes van generative AI. Het legt uit wat generative AI is, hoe het werkt, en de verschillende soorten generative AI-modellen. De video gaat ook in op het verschil tussen AI en machine learning, evenals de onderscheidende kenmerken van supervised en unsupervised learning. Daarnaast worden deep learning en neural networks besproken, en hoe deze technologieën bijdragen aan de ontwikkeling van generative AI. Tot slot geeft de video voorbeelden van praktische toepassingen en tools voor het gebruik van generative AI in verschillende domeinen.
 +++
 :::{admonition} Reflectievragen
-- Vragen volgen
-:::
-:::
-:::{grid-item-card}
-<a href="" target="_blank" ><img src=""></a>
-^^^
-Beschrijving volgt
-+++
-:::{admonition} Reflectievragen
-- Vragen volgen
+- Leg in je eigen woorden uit wat het verschil is tussen kunstmatige intelligentie (AI) en machine learning (ML). Gebruik voorbeelden uit de video om je uitleg te ondersteunen.
+- Stel je voor dat je een project moet ontwikkelen met gebruik van generative AI. Welke van de besproken tools zou je kiezen en waarom? Beschrijf een mogelijke use case en hoe je deze tool zou inzetten.
+- Reflecteer op wat je hebt geleerd in deze video en hoe het je begrip van AI heeft verdiept. Hoe denk je dat deze kennis je kan helpen in je rol als docent in het hoger onderwijs?
 :::
 :::
 ::::
@@ -70,45 +75,7 @@ In deze video wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnv
 ## Praktijkvoorbeelden en use-cases
 - Succesvolle implementaties van AI-tools op andere instellingen
 
-
-Citations:
-
-[1] https://www.magicschool.ai
-
-[2] https://www.edutopia.org/article/7-ai-tools-that-help-teachers-work-more-efficiently/
-
-[3] https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00392-8
-
-[4] https://www.eduaide.ai
-
-[5] https://feedbackfruits.com/blog/opportunities-and-challenges-of-ai-in-higher-education
-
-[6] https://www.weareteachers.com/chatgpt-alternatives/
-
-[7] https://www.sendsteps.com/en/blog/top-10-ai-tools-for-teachers/
-
-[8] https://teachermade.com/10-of-the-best-ai-tools-for-teachers-in-2023/
-
-[9] https://www.educause.edu/ecar/research-publications/2024/2024-educause-ai-landscape-study/the-future-of-ai-in-higher-education
-
-[10] https://www.youtube.com/watch?v=SBxb5xW7qFo
-
-[11] https://www.youtube.com/watch?v=BBO8-Y65eYc
-
-[12] https://www.forbes.com/sites/rhettpower/2024/02/04/3-innovative-case-uses-for-ai-in-higher-education/
-
-[13] https://www.kcl.ac.uk/short-courses/generative-ai-in-he
-
-[14] https://www.aacsb.edu/insights/articles/2023/10/how-ai-is-reshaping-higher-education
-
-[15] https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/
-
-[16] https://www.edutopia.org/article/4-time-saving-ai-tools-for-teachers/
-
-[17] https://dorset.ie/courses/ai-artificial-intelligence-for-higher-education/
-
-[18] https://teaching-and-learning-collection.sites.uu.nl/project/ai-in-higher-education/
-
-[19] https://www.youtube.com/watch?v=t9gmyvf7JYo
-
-[20] https://www.intentful.ai/ai-101
+## References
+```{bibliography}
+:filter: docname in docnames
+```
