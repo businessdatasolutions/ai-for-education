@@ -7,11 +7,7 @@
 ## Onderwerpen
 
 - Wat is AI en wat zijn de verschillende soorten AI?
-- Overzicht van de huidige stand van AI-technologieën in het hoger onderwijs
-- AI voor leermaterialen en lesplanning
-- AI voor beoordeling en feedback 
-- AI voor gepersonaliseerd leren en leerbegeleiding
-- AI voor administratieve taken en studentondersteuning
+- Overzicht van de huidige stand van AI-technologieën in het hoger onderwijs.
 
 ### Wat is AI en wat zijn de verschillende soorten AI?
 
@@ -51,7 +47,7 @@ Deze video {cite:p}`google_cloud_tech_introduction_2023` behandelt de basisprinc
 :::{grid-item-card}
 <a href="https://youtu.be/t9gmyvf7JYo?si=rrFqqOylv0BFNPQ1" target="_blank" ><img src="https://img.youtube.com/vi/t9gmyvf7JYo/maxresdefault.jpg" class="rounded"></a>
 ^^^
-In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School het thema AI in het hoger onderwijs. Ze bespreken de opkomst van praktische AI, de wijdverspreide beschikbaarheid ervan en de manieren waarop studenten AI gebruiken, inclusief uitdagingen zoals cheaten. De evolutie van AI van machine learning tot generatieve AI zoals ChatGPT wordt uitgelegd, evenals de impact op verschillende banen en het onderwijs. Daarnaast worden ethische kwesties rond AI, zoals bias en copyright, belicht. De video biedt inzichten en praktische tips voor het integreren van AI in het onderwijs.
+In deze video {cite:p}`wharton_school_practical_2023` wordt het thema AI in het hoger onderwijs geïntroduceerd. De sprekers beschrijven de opkomst van praktische AI, de wijdverspreide beschikbaarheid ervan en de manieren waarop studenten AI gebruiken, inclusief uitdagingen zoals cheaten. De evolutie van AI van machine learning tot generatieve AI zoals ChatGPT wordt uitgelegd, evenals de impact op verschillende banen en het onderwijs. Daarnaast worden ethische kwesties rond AI, zoals bias en copyright, belicht. De video biedt inzichten en praktische tips voor het integreren van AI in het onderwijs.
 +++
 :::{admonition} Reflectievragen
 - Hoe heeft deze video je begrip van AI in het onderwijs veranderd ten opzichte van wat je wist voordat je de video zag?
@@ -62,7 +58,7 @@ In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School h
 :::{grid-item-card}
 <a href="https://youtu.be/bEJ0_TVXh-I?si=4RBSgEvp1k8C_RW-" target="_blank" ><img src="https://img.youtube.com/vi/bEJ0_TVXh-I/maxresdefault.jpg" class="rounded"></a>
 ^^^
-In deze video wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnvloedt. Je zult horen over zowel de kansen als de uitdagingen die AI met zich meebrengt, en je krijgt inzicht in verschillende standpunten van studenten, docenten en experts op het gebied van leren. De video behandelt de ethische en praktische aspecten van het gebruik van AI in het onderwijs en roept op tot een kritische reflectie op hoe we AI op een verantwoorde manier kunnen integreren in ons onderwijs.
+In deze video {cite:p}`vox_ai_2023` wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnvloedt. Je zult horen over zowel de kansen als de uitdagingen die AI met zich meebrengt, en je krijgt inzicht in verschillende standpunten van studenten, docenten en experts op het gebied van leren. De video behandelt de ethische en praktische aspecten van het gebruik van AI in het onderwijs en roept op tot een kritische reflectie op hoe we AI op een verantwoorde manier kunnen integreren in ons onderwijs.
 +++
 :::{admonition} Reflectievragen
 - Denk je dat het verbieden van AI-tools in het onderwijs een haalbare en effectieve oplossing is? Waarom wel of niet?
@@ -77,14 +73,13 @@ In deze video wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnv
 :gutter: 1
 
 :::{grid-item-card}
-<a href="https://youtu.be/t9gmyvf7JYo?si=rrFqqOylv0BFNPQ1" target="_blank" ><img src="https://img.youtube.com/vi/t9gmyvf7JYo/maxresdefault.jpg" class="rounded"></a>
+<a href="https://youtu.be/Ks7enkKuZIo?si=BdKb1VDkEwUOuvHj&t=980" target="_blank" ><img src="https://img.youtube.com/vi/Ks7enkKuZIo/maxresdefault.jpg" class="rounded"></a>
 ^^^
-In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School het thema AI in het hoger onderwijs. Ze bespreken de opkomst van praktische AI, de wijdverspreide beschikbaarheid ervan en de manieren waarop studenten AI gebruiken, inclusief uitdagingen zoals cheaten. De evolutie van AI van machine learning tot generatieve AI zoals ChatGPT wordt uitgelegd, evenals de impact op verschillende banen en het onderwijs. Daarnaast worden ethische kwesties rond AI, zoals bias en copyright, belicht. De video biedt inzichten en praktische tips voor het integreren van AI in het onderwijs.
+In de video {cite:p}`stanford_hai_aieducation_2023` bespreekt de spreker haar ervaringen en inzichten met betrekking tot generatieve AI in het hoger onderwijs. Ze benadrukt het belang van een groeimindset en hoe generatieve AI, zoals ChatGPT, niet alleen studenten kan ondersteunen, maar ook docenten kan helpen in hun instructie. De spreker geeft voorbeelden van hoe AI kan helpen bij het verbeteren van docent-leerling interacties en het bevorderen van een gevoel van verbondenheid en groei bij studenten. Ze bespreekt ook de uitdagingen en ethische overwegingen bij het gebruik van AI in educatieve contexten, zoals het belang van representatieve data en het waarborgen van privacy.
 +++
 :::{admonition} Reflectievragen
-- Hoe heeft deze video je begrip van AI in het onderwijs veranderd ten opzichte van wat je wist voordat je de video zag?
-- Kun je een voorbeeld geven van hoe AI jouw werk als docent zou kunnen beïnvloeden?
-- Wat zijn jouw grootste zorgen over de ethische implicaties van AI in het onderwijs?
+- De spreker beschrijft hoe AI kan helpen bij het analyseren en verbeteren van leraar-leerling interacties. Hoe zou je AI kunnen inzetten om de kwaliteit van deze interacties in je eigen klas of instelling te verbeteren?
+- Hoe kun je ervoor zorgen dat AI-tools inclusiviteit en diversiteit bevorderen in de klas? Wat zijn enkele specifieke maatregelen die je kunt nemen om ervoor te zorgen dat de AI-modellen die je gebruikt, representatief en eerlijk zijn?
 :::
 :::
 :::{grid-item-card}
@@ -93,9 +88,8 @@ In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School h
 Het artikel door {cite:p}`crompton_artificial_2023` biedt een systematisch overzicht van hoe AI wordt gebruikt in het hoger onderwijs (HO) van 2016 tot 2022. Het identificeert belangrijke trends, voordelen, uitdagingen en hiaten in het huidige onderzoek. Belangrijke bevindingen zijn onder andere de snelle toename van publicaties, de verschuiving van onderzoekdominantie van de VS naar China, en de nadruk op undergraduate studenten en taalleren. Het artikel categoriseert het gebruik van AI in HO in vijf hoofdgebieden: beoordeling/evaluatie, voorspellen, AI-assistenten, intelligente tutorsystemen en het beheren van studentleren. Het benadrukt ook de noodzaak van meer onderzoek in diverse academische disciplines, ontwikkelingslanden en op graduate niveau, en wijst op het potentieel van opkomende AI-tools zoals ChatGPT.
 +++
 :::{admonition} Reflectievragen
-- Denk je dat het verbieden van AI-tools in het onderwijs een haalbare en effectieve oplossing is? Waarom wel of niet?
-- Wat vind je van de vergelijking tussen AI en hulpmiddelen zoals rekenmachines en spellingscontrole? In hoeverre zijn deze vergelijkingen accuraat?
-- Wat zou je veranderen aan je huidige lesmethoden of beoordelingscriteria om rekening te houden met de mogelijkheden en beperkingen van AI?
+- Reflecteer op het huidige gebruik van AI in je instelling. Hoe verhoudt dit zich tot de trends en toepassingen die in het artikel worden besproken?
+- Gezien de snelle ontwikkelingen in AI, welke gebieden vereisen volgens jou onmiddellijke aandacht en ontwikkeling om het potentieel van AI in het hoger onderwijs te maximaliseren?
 :::
 :::
 ::::
