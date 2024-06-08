@@ -15,6 +15,28 @@
 
 ### Wat is AI en wat zijn de verschillende soorten AI?
 
+::::{grid} 2
+:gutter: 1
+
+:::{grid-item-card}
+<a href="https://youtu.be/G2fqAlgmoPo?si=6v2lnVmxzLCE75MQ" target="_blank" ><img src="https://img.youtube.com/vi/G2fqAlgmoPo/maxresdefault.jpg" class="rounded"></a>
+^^^
+Beschrijving volgt
++++
+:::{admonition} Reflectievragen
+- Vragen volgen
+:::
+:::
+:::{grid-item-card}
+<a href="" target="_blank" ><img src=""></a>
+^^^
+Beschrijving volgt
++++
+:::{admonition} Reflectievragen
+- Vragen volgen
+:::
+:::
+::::
 
 ### Huidige stand van AI-technologieën in het hoger onderwijs
 
@@ -22,7 +44,7 @@
 :gutter: 1
 
 :::{grid-item-card}
-<a href="https://youtu.be/t9gmyvf7JYo?si=rrFqqOylv0BFNPQ1" target="_blank" ><img src="https://img.youtube.com/vi/t9gmyvf7JYo/maxresdefault.jpg"></a>
+<a href="https://youtu.be/t9gmyvf7JYo?si=rrFqqOylv0BFNPQ1" target="_blank" ><img src="https://img.youtube.com/vi/t9gmyvf7JYo/maxresdefault.jpg" class="rounded"></a>
 ^^^
 In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School het thema AI in het hoger onderwijs. Ze bespreken de opkomst van praktische AI, de wijdverspreide beschikbaarheid ervan en de manieren waarop studenten AI gebruiken, inclusief uitdagingen zoals cheaten. De evolutie van AI van machine learning tot generatieve AI zoals ChatGPT wordt uitgelegd, evenals de impact op verschillende banen en het onderwijs. Daarnaast worden ethische kwesties rond AI, zoals bias en copyright, belicht. De video biedt inzichten en praktische tips voor het integreren van AI in het onderwijs.
 +++
@@ -33,7 +55,7 @@ In deze video introduceren Lita Mollick en Ethan Mollick van de Wharton School h
 :::
 :::
 :::{grid-item-card}
-<a href="https://youtu.be/bEJ0_TVXh-I?si=4RBSgEvp1k8C_RW-" target="_blank" ><img src="https://img.youtube.com/vi/bEJ0_TVXh-I/maxresdefault.jpg"></a>
+<a href="https://youtu.be/bEJ0_TVXh-I?si=4RBSgEvp1k8C_RW-" target="_blank" ><img src="https://img.youtube.com/vi/bEJ0_TVXh-I/maxresdefault.jpg" class="rounded"></a>
 ^^^
 In deze video wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnvloedt. Je zult horen over zowel de kansen als de uitdagingen die AI met zich meebrengt, en je krijgt inzicht in verschillende standpunten van studenten, docenten en experts op het gebied van leren. De video behandelt de ethische en praktische aspecten van het gebruik van AI in het onderwijs en roept op tot een kritische reflectie op hoe we AI op een verantwoorde manier kunnen integreren in ons onderwijs.
 +++
@@ -44,9 +66,6 @@ In deze video wordt besproken hoe AI, en specifiek ChatGPT, het onderwijs beïnv
 :::
 :::
 ::::
-
-
-
 
 ## Praktijkvoorbeelden en use-cases
 - Succesvolle implementaties van AI-tools op andere instellingen
