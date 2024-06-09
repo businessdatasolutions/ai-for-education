@@ -40,6 +40,43 @@ Deze video {cite:p}`google_cloud_tech_introduction_2023` behandelt de basisprinc
 :::
 ::::
 
+#### Ervaar Machine Learning met Teachable Machine
+
+In deze activiteit ga je zelf ervaren hoe machine learning werkt door een eenvoudig model te trainen met Google’s Teachable Machine. Dit hands-on experiment geeft je inzicht in het proces van data verzamelen, model trainen en voorspellingen maken.
+
+##### Instructies
+
+1. **Toegang tot Teachable Machine:**
+   - Ga naar <a href="https://teachablemachine.withgoogle.com/" target="_blank">Teachable Machine</a>.
+
+2. **Kies je project:**
+   - Klik op “Get Started”.
+   - Kies “Image Project” om een model te trainen dat beelden herkent. (Je kunt ook kiezen voor audio- of pose-projecten als dat beter aansluit bij je lesdoelen.)
+
+3. **Data verzamelen:**
+   - Maak drie klassen (categorieën) aan door op “Class 1”, “Class 2” en “Class 3” te klikken.
+   - Verzamel voorbeelden voor elke klasse. Gebruik je webcam om verschillende beelden vast te leggen die bij elke klasse horen. Bijvoorbeeld, klas 1 kan “Boeken” zijn, klas 2 “Pennen” en klas 3 “Notitieblokken”.
+   - Zorg ervoor dat je voldoende voorbeelden hebt (minimaal 10 per klasse) om het model goed te trainen.
+
+4. **Model trainen:**
+   - Klik op “Train Model”. Het systeem zal nu de data verwerken en het model trainen.
+   - Wacht tot het model is getraind. Dit kan enkele minuten duren.
+
+5. **Model testen:**
+   - Gebruik je webcam om nieuwe objecten aan de camera te tonen en kijk hoe goed je model deze herkent.
+   - Noteer de nauwkeurigheid van de voorspellingen en eventuele fouten.
+
+6. **Evalueren:**
+   - Voeg meer voorbeelden toe of verwijder onjuiste voorbeelden om het model te verbeteren.
+   - Train het model opnieuw en test de verbeterde versie.
+
+**Reflectievragen**
+
+:::{admonition} Reflectievragen
+- Wat viel je op tijdens het proces van het verzamelen van data en het trainen van het model? Waren er verrassingen of uitdagingen die je niet had verwacht?
+- Hoe denk je dat de ervaring met Teachable Machine je begrip van machine learning heeft veranderd? Welke nieuwe inzichten heb je opgedaan?
+:::
+
 ### Huidige stand van AI-technologieën in het hoger onderwijs
 
 ::::{grid} 2
@@ -69,6 +106,38 @@ In deze video {cite:p}`vox_ai_2023` wordt besproken hoe AI, en specifiek ChatGPT
 :::
 :::
 ::::
+
+#### Test verschillende AI-chatsystemen
+
+In deze opdracht ga je verschillende AI-chatsystemen testen door ze te gebruiken om een essay te schrijven over de huidige stand van AI-technologieën in het hoger onderwijs. Je vergelijkt de resultaten en reflecteert op je ervaringen.
+
+##### Instructies
+
+1. **Kies drie AI-chatsystemen:**
+   - Selecteer drie AI-chatsystemen uit de onderstaande lijst:
+   
+      1. <a href="https://chat.openai.com/" target="_blank">ChatGPT by OpenAI</a>
+      2. <a href="https://www.perplexity.ai/" target="_blank">Perplexity AI</a>
+      3. <a href="https://www.anthropic.com/product" target="_blank">Claude by Anthropic</a>
+      4. <a href="https://www.bing.com/chat" target="_blank">Microsoft Bing Chat</a>
+      5. <a href="https://bard.google.com/" target="_blank">Google Bard</a>
+      6. <a href="https://www.you.com/" target="_blank">You.com</a>
+
+2. **Genereer essays:**
+   - Gebruik elk gekozen AI-chatsysteem om een essay te schrijven over de huidige stand van AI-technologieën in het hoger onderwijs. Je kunt de volgende richtlijnen gebruiken:
+     - **Inleiding:** Wat is AI en hoe wordt het toegepast in het hoger onderwijs?
+     - **Middelen:** Voorbeelden van AI-technologieën die momenteel in gebruik zijn in het hoger onderwijs.
+     - **Voordelen:** Voordelen van het gebruik van AI in het hoger onderwijs.
+     - **Uitdagingen:** Uitdagingen en beperkingen van AI in het hoger onderwijs.
+     - **Toekomst:** Toekomstige trends en ontwikkelingen in AI voor het hoger onderwijs.
+
+3. **Vergelijk de resultaten:**
+   - Vergelijk de essays die door de verschillende AI-chatsystemen zijn gegenereerd. Let op de kwaliteit van de inhoud, de coherentie, de nauwkeurigheid en de diepgang van de analyses.
+
+:::{admonition} Reflectievragen
+  - Wat viel je op bij het vergelijken van de essays die door de verschillende AI-chatsystemen zijn gegenereerd? Waren er duidelijke verschillen in kwaliteit en inhoud?
+  - Hoe gebruiksvriendelijk vond je elk van de AI-chatsystemen? Waren er specifieke functies of eigenschappen die je nuttig vond?
+:::
 
 ## Praktijkvoorbeelden en use-cases
 ::::{grid} 2
