@@ -8,6 +8,7 @@
 
 - Wat is AI en wat zijn de verschillende soorten AI?
 - Overzicht van de huidige stand van AI-technologieën in het hoger onderwijs.
+- Praktijkvoorbeelden en use-cases.
 
 ### Wat is AI en wat zijn de verschillende soorten AI?
 
