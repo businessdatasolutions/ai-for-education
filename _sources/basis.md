@@ -165,6 +165,16 @@ Het artikel door {cite:p}`crompton_artificial_2023` biedt een systematisch overz
 - Gezien de snelle ontwikkelingen in AI, welke gebieden vereisen volgens jou onmiddellijke aandacht en ontwikkeling om het potentieel van AI in het hoger onderwijs te maximaliseren?
 :::
 :::
+:::{grid-item-card}
+<a href="https://youtu.be/0FvxMUYxVhU?si=2FJ1GGAj_LDhY6kF" target="_blank"><img src="https://img.youtube.com/vi/0FvxMUYxVhU/maxresdefault.jpg" class="rounded"></a>
+^^^
+Volgens {cite:p}`centre_for_innovation_in_teaching_and_learning_citl_what_2024` heeft de snelle integratie van ChatGPT in het hoger onderwijs zowel uitdagingen als kansen met zich meegebracht. Uit onderzoek blijkt dat AI-tools zoals ChatGPT als nuttig tot essentieel worden beschouwd voor wetenschappelijk onderzoek, vooral bij taalverbetering voor niet-moedertaalsprekers. Hoewel AI aanzienlijke voordelen biedt, zoals tijdbesparing en verbeterde data-analyse, zijn er ook nadelen, zoals de proliferatie van verkeerde informatie en een focus op patroonherkenning zonder begrip. Docenten hebben ChatGPT in hun lessen geïntegreerd om studenten te helpen wetenschappelijke informatie te identificeren en te valideren, met nadruk op ethische en effectieve toepassing. Ondanks de voordelen blijven AI-detectietools voor plagiaat onbetrouwbaar, waardoor het belangrijk is studenten te leren hoe ze AI-tools verantwoord kunnen gebruiken en de beperkingen ervan te begrijpen.
+:::
+:::{grid-item-card}
+<a href="https://www.nature.com/articles/s41598-023-42227-6" target="_blank"><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-023-42227-6/MediaObjects/41598_2023_42227_Fig5_HTML.png?as=webp" class="rounded"></a>
+^^^
+Het artikel van {cite:p}`futterer_chatgpt_2023` benadrukt dat ChatGPT gepersonaliseerd leren kan verbeteren, educatieve processen kan stroomlijnen en inclusief onderwijs kan ondersteunen. Er worden echter ethische zorgen geuit, waaronder potentiële vooroordelen en problemen met academische integriteit. Er wordt benadrukt dat uitgebreide docententraining en professionele ontwikkeling nodig zijn om effectieve en ethische AI-integratie te waarborgen. De publieke reacties op ChatGPT in het onderwijs zijn gemengd, wat zorgvuldige overweging door beleidsmakers vereist. Over het algemeen biedt ChatGPT aanzienlijke voordelen voor het onderwijs, maar vergt het een doordachte implementatie om uitdagingen aan te pakken en de positieve impact te maximaliseren.
+:::
 ::::
 
 ## References
