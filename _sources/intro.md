@@ -3,7 +3,7 @@
 ## Leeruitkomsten
 
 1. Als professional in het hoger onderwijs wil ik een basisbegrip van het gebruik van (gen)AI binnen een onderwijscontext zodat ik op hoofdlijnen kan meepraten.
-2. Als docent wil ik gemiddelde kennis en kunde kunnen toepassen bij het verzorgen van mijn onderwijs zodat ik gebruik kan maken van de meest basale (gen)AI tools om daarmee efficienter te kunnen werken.
+2. Als docent wil ik diepgaande kennis en praktische vaardigheden verwerven om (gen)AI-tools effectief te integreren in mijn onderwijspraktijk, zodat ik mijn lesmethoden kan verbeteren en mijn werk efficiënter kan uitvoeren.
 
 ## Programma
 Deze cursus behandelt de belangrijkste aspecten van AI-gebruik in het hoger onderwijs op zowel een algemeen als een praktisch niveau voor docenten. De activiteiten bestaan uit zelfstudie, interactieve oefeningen en praktijkcases. De maximale tijdsinvestering bedraagt 3 dagen (x acht uur = 24 uur).

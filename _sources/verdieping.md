@@ -2,7 +2,7 @@
 
 ## Leeruitkomst
 
-2. Als docent wil ik gemiddelde kennis en kunde kunnen toepassen bij het verzorgen van mijn onderwijs zodat ik gebruik kan maken van de meest basale (gen)AI tools om daarmee efficienter te kunnen werken.
+2. Als docent wil ik diepgaande kennis en praktische vaardigheden verwerven om (gen)AI-tools effectief te integreren in mijn onderwijspraktijk, zodat ik mijn lesmethoden kan verbeteren en mijn werk efficiënter kan uitvoeren.
 
 ## Onderwerpen
 - Lesplannen maken met AI-assistenten [1][4]
