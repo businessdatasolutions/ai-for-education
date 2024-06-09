@@ -119,8 +119,8 @@ In deze opdracht ga je verschillende AI-chatsystemen testen door ze te gebruiken
       1. <a href="https://chat.openai.com/" target="_blank">ChatGPT by OpenAI</a>
       2. <a href="https://www.perplexity.ai/" target="_blank">Perplexity AI</a>
       3. <a href="https://www.anthropic.com/product" target="_blank">Claude by Anthropic</a>
-      4. <a href="https://www.bing.com/chat" target="_blank">Microsoft Bing Chat</a>
-      5. <a href="https://bard.google.com/" target="_blank">Google Bard</a>
+      4. <a href="https://www.bing.com/chat" target="_blank">Microsoft Copilot Chat</a>
+      5. <a href="https://gemini.google.com/app" target="_blank">Google Gemini</a>
       6. <a href="https://www.you.com/" target="_blank">You.com</a>
 
 2. **Genereer essays:**
