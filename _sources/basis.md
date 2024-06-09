@@ -13,6 +13,7 @@
 
 ::::{grid} 2
 :gutter: 1
+:layout: 1 1 2
 
 :::{grid-item-card}
 <a href="https://youtu.be/5q87K1WaoFI?si=M5czhN5JJeGjpPEq" target="_blank" ><img src="https://img.youtube.com/vi/5q87K1WaoFI/maxresdefault.jpg" class="rounded"></a>
@@ -43,6 +44,7 @@ Deze video {cite:p}`google_cloud_tech_introduction_2023` behandelt de basisprinc
 
 ::::{grid} 2
 :gutter: 1
+:layout: 1 1 2
 
 :::{grid-item-card}
 <a href="https://youtu.be/t9gmyvf7JYo?si=rrFqqOylv0BFNPQ1" target="_blank" ><img src="https://img.youtube.com/vi/t9gmyvf7JYo/maxresdefault.jpg" class="rounded"></a>
@@ -71,9 +73,10 @@ In deze video {cite:p}`vox_ai_2023` wordt besproken hoe AI, en specifiek ChatGPT
 ## Praktijkvoorbeelden en use-cases
 ::::{grid} 2
 :gutter: 1
+:layout: 1 1 2
 
 :::{grid-item-card}
-<a href="https://youtu.be/Ks7enkKuZIo?si=BdKb1VDkEwUOuvHj&t=980" target="_blank" ><img src="https://img.youtube.com/vi/Ks7enkKuZIo/maxresdefault.jpg" class="rounded"></a>
+<a href="https://youtu.be/Ks7enkKuZIo?si=BdKb1VDkEwUOuvHj&t=980" target="_blank"><img src="https://img.youtube.com/vi/Ks7enkKuZIo/maxresdefault.jpg" class="rounded"></a>
 ^^^
 In de video {cite:p}`stanford_hai_aieducation_2023` bespreekt de spreker haar ervaringen en inzichten met betrekking tot generatieve AI in het hoger onderwijs. Ze benadrukt het belang van een groeimindset en hoe generatieve AI, zoals ChatGPT, niet alleen studenten kan ondersteunen, maar ook docenten kan helpen in hun instructie. De spreker geeft voorbeelden van hoe AI kan helpen bij het verbeteren van docent-leerling interacties en het bevorderen van een gevoel van verbondenheid en groei bij studenten. Ze bespreekt ook de uitdagingen en ethische overwegingen bij het gebruik van AI in educatieve contexten, zoals het belang van representatieve data en het waarborgen van privacy.
 +++
@@ -83,7 +86,7 @@ In de video {cite:p}`stanford_hai_aieducation_2023` bespreekt de spreker haar er
 :::
 :::
 :::{grid-item-card}
-<a href="https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00392-8" target="_blank" ><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs41239-023-00392-8/MediaObjects/41239_2023_392_Fig7_HTML.png?as=webp" class="rounded"></a>
+<a href="https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00392-8" target="_blank"><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs41239-023-00392-8/MediaObjects/41239_2023_392_Fig7_HTML.png?as=webp" class="rounded"></a>
 ^^^
 Het artikel door {cite:p}`crompton_artificial_2023` biedt een systematisch overzicht van hoe AI wordt gebruikt in het hoger onderwijs (HO) van 2016 tot 2022. Het identificeert belangrijke trends, voordelen, uitdagingen en hiaten in het huidige onderzoek. Belangrijke bevindingen zijn onder andere de snelle toename van publicaties, de verschuiving van onderzoekdominantie van de VS naar China, en de nadruk op undergraduate studenten en taalleren. Het artikel categoriseert het gebruik van AI in HO in vijf hoofdgebieden: beoordeling/evaluatie, voorspellen, AI-assistenten, intelligente tutorsystemen en het beheren van studentleren. Het benadrukt ook de noodzaak van meer onderzoek in diverse academische disciplines, ontwikkelingslanden en op graduate niveau, en wijst op het potentieel van opkomende AI-tools zoals ChatGPT.
 +++
